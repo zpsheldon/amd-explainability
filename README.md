@@ -2,3 +2,11 @@
 
 - I’m interested in exploring the explainability of different machine learning model classes used in clinical decision making. Medicine is a high-risk environment for AI applications, and understanding what goes into an automated system’s decision is key for accountability, building patient trust, and improving care in clinical workflows. In the field, models are commonly deployed in human-AI hybrid systems where clinicians have access to predictions but have the final say in decision making, and thus interpretability is an important factor in model development.
 - For this project, I am working with Moorfields Eye Hospital’s Age-Related Macular Degeneration (AMD) Progression Dataset, which contains longitudinal ophthalmic data curated from anonymized electronic health records (EHRs), diagnostic imaging, and genetic screening reports. The data span from January 2021 to February 2025, and include 72,000 records from 50 individual patients over 5 clinical sites. They contain 57 features (multi-modal clinical, imaging, genetic, and longitudinal), and 3 potential target values: 4-class AMD stage, continuous AMD risk score, and time-to-onset in months.
+
+- References
+    - [A Perspective on Explainable Artificial Intelligence Methods: SHAP and LIME](https://arxiv.org/html/2305.02012v3)
+    - [On the Relationship Between Interpretability and Explainability in Machine Learning](https://arxiv.org/abs/2311.11491)
+    - [Explainable AI: A Review of Machine Learning Interpretability Methods](https://pmc.ncbi.nlm.nih.gov/articles/PMC7824368/)
+    - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+    - [Age-Related Macular Degeneration Progression Dataset](https://www.kaggle.com/datasets/datasetengineer/amdp-dataset)
+    - DeepMind — [Using AI to Predict Retinal Disease Progression](https://deepmind.google/discover/blog/using-ai-to-predict-retinal-disease-progression/)
